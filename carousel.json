@@ -1,5 +1,5 @@
 {
-	"maxCount": 6,
+	"maxCount": 7,
 	"image": [
 		{
 			"source": "https://cdn.jsdelivr.net/gh/DmitrySharabin/mavo-carousel-widget@639d1d15251b0f232905a066d8ea2508a8864cc1/images/redcharlie-k2zWqv_yfNM-unsplash.jpg"
@@ -15,7 +15,13 @@
 		},
 		{
 			"source": "https://cdn.jsdelivr.net/gh/DmitrySharabin/mavo-carousel-widget@cd494d7205e444a00e580e3bfd7cfdd507731b0f/images/westboundary-photography-chris-gill-lBL7rSRaNGs-unsplash.jpg"
+		},
+		{
+			"source": "https://cdn.jsdelivr.net/gh/GalinhaLX/mavo-carousel-widget@9a42a5ac22aa3d322fe3ee081b8573336b2d4a4d/images/0ae1c567296367.5b348da6e01c5.jpg"
+		},
+		{
+			"source": "https://cdn.jsdelivr.net/gh/GalinhaLX/mavo-carousel-widget@ca65fb8a4921b304cb552d74cc4a39efb0f26f66/images/002.jpg"
 		}
 	],
-	"delay": 5
+	"delay": 3
 }
