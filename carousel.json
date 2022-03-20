@@ -2,9 +2,6 @@
 	"maxCount": 7,
 	"image": [
 		{
-			"source": "https://cdn.jsdelivr.net/gh/GalinhaLX/mavo-carousel-widget@c9f507adacda9aa46c8fbf74704d57958e100d06/images/16478125978904701159245565597382.jpg"
-		},
-		{
 			"source": "https://cdn.jsdelivr.net/gh/DmitrySharabin/mavo-carousel-widget@726faacd0d22d2d5301414aeb88218e7b057ac7b/images/vincent-van-zalinge-vUNQaTtZeOo-unsplash.jpg"
 		},
 		{
@@ -21,6 +18,9 @@
 		},
 		{
 			"source": "https://cdn.jsdelivr.net/gh/GalinhaLX/mavo-carousel-widget@ca65fb8a4921b304cb552d74cc4a39efb0f26f66/images/002.jpg"
+		},
+		{
+			"source": "https://cdn.jsdelivr.net/gh/GalinhaLX/mavo-carousel-widget@304dec968e577ff4645be46e72d941a2c2e5538c/images/16478129221746950491195183788699.jpg"
 		}
 	],
 	"delay": 3
