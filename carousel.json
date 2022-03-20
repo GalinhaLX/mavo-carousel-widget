@@ -2,15 +2,6 @@
 	"maxCount": 7,
 	"image": [
 		{
-			"source": "https://cdn.jsdelivr.net/gh/GalinhaLX/mavo-carousel-widget@91591d19fd904d67b8577c259643326e1844527e/images/1647814445067657362395265778916.jpg"
-		},
-		{
-			"source": "https://cdn.jsdelivr.net/gh/DmitrySharabin/mavo-carousel-widget@89538f0cab7dc8dc0d96d3ff9584934d4c3ce203/images/eberhard-grossgasteiger-y2azHvupCVo-unsplash.jpg"
-		},
-		{
-			"source": "https://cdn.jsdelivr.net/gh/DmitrySharabin/mavo-carousel-widget@f7607176c52c4c4b4130c16712105c40d2579431/images/sylvain-guiheneuc-hIMdKs_0cSE-unsplash.jpg"
-		},
-		{
 			"source": "https://cdn.jsdelivr.net/gh/DmitrySharabin/mavo-carousel-widget@cd494d7205e444a00e580e3bfd7cfdd507731b0f/images/westboundary-photography-chris-gill-lBL7rSRaNGs-unsplash.jpg"
 		},
 		{
@@ -18,9 +9,6 @@
 		},
 		{
 			"source": "https://cdn.jsdelivr.net/gh/GalinhaLX/mavo-carousel-widget@ca65fb8a4921b304cb552d74cc4a39efb0f26f66/images/002.jpg"
-		},
-		{
-			"source": "https://cdn.jsdelivr.net/gh/GalinhaLX/mavo-carousel-widget@304dec968e577ff4645be46e72d941a2c2e5538c/images/16478129221746950491195183788699.jpg"
 		}
 	],
 	"delay": 3
